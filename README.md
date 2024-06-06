@@ -1,4 +1,4 @@
-![MasterHead](https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg)
+![MasterHead](https://as1.ftcdn.net/v2/jpg/02/85/63/60/1000_F_285636065_TvK3DwYheo1d99WST5UL9ysYQ8KfCBaV.jpg)
 <h1 align="center">Hi 👋, I'm Asaf Eliyahu</h1>
 <h3 align="center">Eager to learn and explore Data possibilities</h3>
 <br />
